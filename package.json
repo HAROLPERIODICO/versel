@@ -1,0 +1,20 @@
+{
+  "name": "versel-app",
+  "version": "1.0.0",
+  "description": "Aplicacion prueba de backend versel",
+  "main": "app.js",
+  "author": "Harol Díaz",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+   
+    "dev": "nodemon app.js"
+  },
+
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
