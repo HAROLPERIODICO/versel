@@ -4,7 +4,7 @@ const app = express()
 
 app.get('/', (req, res) => {
     console.log('Server  peticion recibida')
-    res.send('<h1>Hola Harol Díaz Meléndez</h1>')
+    res.send('<h1>Hola Harol Díaz Meléndez ya en GITHUB desde node cero</h1>')
 })
     
 app.listen(4000, () => {
